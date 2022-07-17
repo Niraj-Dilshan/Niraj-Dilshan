@@ -53,4 +53,4 @@ Here are some ideas to get you started:
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Niraj-Dilshan&theme=hacker&hide_border=true&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00)](https://git.io/streak-stats)
   
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&layout=compact&theme=vision-friendly-dark)](https://github.com/Niraj-Dilshan/github-readme-stats)
