@@ -2,9 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <a href="https://twitter.com/Niraj_Dilshan"><img src="https://img.shields.io/twitter/follow/Niraj_Dilshan?label=Nira_Dilshan&logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="www.linkedin.com/in/niraj-dilshan"><img src="https://img.shields.io/badge/LinkedIn-rgb(85, 85, 85)?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://twitter.com/Niraj_Dilshan"><img src="https://img.shields.io/twitter/follow/Niraj_Dilshan?color=blue&label=Niraj_Dilshan&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/></a>
   <a href="https://github.com/Niraj-Dilshan"><img src="https://img.shields.io/github/followers/Niraj-Dilshan?label=Niraj-Dilshan&logo=github&style=for-the-badge" alt="Github Badge"/></a>
 </div>
 
