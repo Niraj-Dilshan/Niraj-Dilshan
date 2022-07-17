@@ -6,7 +6,6 @@
   <a href="www.linkedin.com/in/niraj-dilshan"><img src="https://img.shields.io/badge/LinkedIn-rgb(85, 85, 85)?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://twitter.com/Niraj_Dilshan"><img src="https://img.shields.io/twitter/follow/Niraj_Dilshan?color=blue&label=Niraj_Dilshan&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/></a>
   <a href="https://github.com/Niraj-Dilshan"><img src="https://img.shields.io/github/followers/Niraj-Dilshan?label=Niraj-Dilshan&logo=github&style=for-the-badge" alt="Github Badge"/></a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
 </div>
 
 <div align="center">
@@ -49,4 +48,6 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Niraj-Dilshan&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
