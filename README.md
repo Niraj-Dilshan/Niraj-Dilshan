@@ -8,9 +8,9 @@
   <a href="https://github.com/Niraj-Dilshan"><img src="https://img.shields.io/github/followers/Niraj-Dilshan?label=Niraj-Dilshan&logo=github&style=for-the-badge" alt="Github Badge"/></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ---
 <!--
