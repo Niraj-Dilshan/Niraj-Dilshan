@@ -70,8 +70,11 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-<div align="center">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Niraj-Dilshan&theme=hacker&hide_border=true&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" /><br>
+
+<div id="status" align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&show_icons=true&locale=en" alt="Niraj-Dilshan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-Dilshan&" alt="Niraj-Dilshan" /></p>
 </div>
 
 ---
