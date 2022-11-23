@@ -82,5 +82,6 @@ Here are some ideas to get you started:
  
  
 <div id="badges" align="center">
+  <a href="https://www.buymeacoffee.com/nirajdilshan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nirajdilshan&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a><br>
   <img src="https://komarev.com/ghpvc/?username=Niraj-Dilshan&color=blueviolet&style=for-the-badge" align="center" />
 </div>
