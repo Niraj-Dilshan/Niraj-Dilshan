@@ -71,11 +71,14 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-<div id="status" align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&show_icons=true&locale=en" alt="Niraj-Dilshan" /></p>
+ <p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Niraj-Dilshan&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-Dilshan&" alt="Niraj-Dilshan" /></p>
-</div>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Niraj-Dilsha"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Niraj-Dilsha"/>
+</p>
 
 ---
 
