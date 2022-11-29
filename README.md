@@ -71,11 +71,14 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-<div id="status" align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&show_icons=true&locale=en" alt="Niraj-Dilshan" /></p>
+<p align="center">
+<a href="https://github.com/Niraj-Dilshan"><img src="http://github-readme-streak-stats.herokuapp.com?user=Niraj-Dilshan&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-Dilshan&" alt="Niraj-Dilshan" /></p>
-</div>
+<p align="center">
+<a href="https://github.com/Niraj-Dilshan"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Niraj-Dilsha"/></a>
+<a href="https://github.com/Niraj-Dilshan"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Niraj-Dilsha"/></a>
+</p>
 
 ---
 
@@ -83,8 +86,11 @@ Here are some ideas to get you started:
  
  ---
  
+<h3 align="center">Visitor Count</h3>
+<p align="center"> 
+<a href="https://github.com/Niraj-Dilshan"><img src="https://profile-counter.glitch.me/Niraj-Dilshan/count.svg" style="height:auto; width:300px;"/></a><br/>
+<a href="https://github.com/Niraj-Dilshan"><img src="https://github.com/Niraj-Dilshan/Niraj-Dilshan/blob/main/wallpaper2.png" style="height:auto; width:auto;"/></a>
+</p>
  
-<div id="badges" align="center">
-  <a href="https://www.buymeacoffee.com/nirajdilshan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nirajdilshan&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a><br>
-  <img src="https://komarev.com/ghpvc/?username=Niraj-Dilshan&color=blueviolet&style=for-the-badge" align="center" />
-</div>
+<!--   <a href="https://www.buymeacoffee.com/nirajdilshan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nirajdilshan&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a><br>
+ -->
