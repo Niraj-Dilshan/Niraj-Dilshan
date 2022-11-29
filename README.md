@@ -71,13 +71,13 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
- <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Niraj-Dilshan&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" />
+<p align="center">
+<a href="https://github.com/Niraj-Dilshan"><img src="http://github-readme-streak-stats.herokuapp.com?user=Niraj-Dilshan&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" /></a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Niraj-Dilsha"/>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Niraj-Dilsha"/>
+<a href="https://github.com/Niraj-Dilshan"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Niraj-Dilsha"/></a>
+<a href="https://github.com/Niraj-Dilshan"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Niraj-Dilsha"/></a>
 </p>
 
 ---
