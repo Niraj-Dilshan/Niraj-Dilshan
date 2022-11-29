@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :information_desk_person: Social Media :
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/niraj-dilshan"><img src="https://img.shields.io/badge/LinkedIn-rgb(85, 85, 85)?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://twitter.com/Niraj_Dilshan"><img src="https://img.shields.io/twitter/follow/Niraj_Dilshan?color=blue&label=Niraj_Dilshan&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/></a>
@@ -72,7 +75,7 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 <p align="center">
-<a href="https://github.com/Niraj-Dilshan"><img src="http://github-readme-streak-stats.herokuapp.com?user=Niraj-Dilshan&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" /></a>
+<a href="https://github.com/Niraj-Dilshan"><img src="http://github-readme-streak-stats.herokuapp.com?user=Niraj-Dilshan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
 </p>
 
 <p align="center">
