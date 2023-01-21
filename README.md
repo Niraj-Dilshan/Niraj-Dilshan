@@ -82,7 +82,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/Niraj-Dilshan"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Niraj-Dilsha"/></a>
 <a href="https://github.com/Niraj-Dilshan"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Niraj-Dilsha"/></a>
 </p>
-
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/INFINITY.png" alt="TryHackMe">
+</p>
 ---
 
  [![@1nf1n17y's Holopin board](https://holopin.me/1nf1n17y)](https://holopin.io/@1nf1n17y)
