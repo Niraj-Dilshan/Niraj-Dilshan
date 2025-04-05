@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Niraj-Dilshan"><img src="https://profile-counter.glitch.me/Niraj-Dilshan/count.svg" style="height:auto; width:300px;"/></a><br/>
 <a href="https://github.com/Niraj-Dilshan"><img src="https://github.com/Niraj-Dilshan/Niraj-Dilshan/blob/main/wallpaper2.png" style="height:auto; width:auto;"/></a>
 </p>
- 
-<a href="https://www.buymeacoffee.com/nirajdilshan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nirajdilshan&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a><br>
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/nirajdilshan"><img style="height:auto; width:200px;" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nirajdilshan&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a><br>
+</p>
