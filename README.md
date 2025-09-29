@@ -66,16 +66,17 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 <p align="center">
-<a href="https://github.com/Niraj-Dilshan"><img src="https://nirzak-streak-stats.vercel.app/?user=Niraj-Dilshan&theme=midnight-purple&hide_border=true" /></a>
+<a href="https://github.com/Niraj-Dilshan"><img src="https://nirzak-streak-stats.vercel.app/?user=Niraj-Dilshan&theme=midnight-purple&hide_border=false" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Niraj-Dilshan"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Niraj-Dilsha"/></a>
-<a href="https://github.com/Niraj-Dilshan"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="Niraj-Dilsha"/></a>
+<a href="https://github.com/Niraj-Dilshan"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Niraj-Dilsha"/></a>
+<a href="https://github.com/Niraj-Dilshan"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="Niraj-Dilsha"/></a>
 </p>
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/INFINITY.png" alt="TryHackMe">
 </p>
+
 ---
 
  [![@1nf1n17y's Holopin board](https://holopin.me/1nf1n17y)](https://holopin.io/@1nf1n17y)
@@ -84,7 +85,7 @@ Here are some ideas to get you started:
  
 <h3 align="center">Visitor Count</h3>
 <p align="center"> 
-<a href="https://github.com/Niraj-Dilshan"><img src="https://profile-counter.glitch.me/Niraj-Dilshan/count.svg" style="height:auto; width:300px;"/></a><br/>
+<a href="https://github.com/Niraj-Dilshan"><img src="https://visitcount.itsvg.in/api?id=Niraj-Dilshan&icon=0&color=0" style="height:auto; width:300px;"/></a><br/>
 <a href="https://github.com/Niraj-Dilshan"><img src="https://github.com/Niraj-Dilshan/Niraj-Dilshan/blob/main/wallpaper2.png" style="height:auto; width:auto;"/></a>
 </p>
 
