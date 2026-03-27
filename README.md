@@ -1,38 +1,53 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/4UI5xc6zewXE6AAAPZ/giphy.gif" width="1000"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Niraj%20Dilshan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Security%20Enthusiast%20%C2%B7%20Builder&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
-
----
-<!--
-**Niraj-Dilshan/Niraj-Dilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### :information_desk_person: Social Media :
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/niraj-dilshan"><img src="https://img.shields.io/badge/LinkedIn-rgb(85, 85, 85)?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/Niraj_Dilshan"><img src="https://img.shields.io/twitter/follow/Niraj_Dilshan?color=blue&label=Niraj_Dilshan&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/></a>
-  <a href="https://github.com/Niraj-Dilshan"><img src="https://img.shields.io/github/followers/Niraj-Dilshan?label=Niraj-Dilshan&logo=github&style=for-the-badge" alt="Github Badge"/></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/niraj-dilshan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Niraj_Dilshan">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://nirajdilshan.me">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/Niraj-Dilshan?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers"/>
 </div>
 
 ---
 
-### 💻 Tech Stack
+## About Me
+
+I'm a full-stack developer and security enthusiast building production SaaS products and open-source tools. Currently working at **INFINITE** on [**mythril.io**](https://mythril.io) — an AI-powered creative platform.
+
+I enjoy working across the full stack: from React frontends and NestJS APIs to distributed systems, automation bots, and security research.
+
+---
+
+## What I'm Building
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[mythril.io](https://mythril.io)** | AI-powered creative platform | React · NestJS · Bun/Hono · Supabase |
+| **[Albion Guild Bot](https://github.com/Niraj-Dilshan/Albion-Guild-Management-Bot)** | Discord bot for Albion Online guild management & raids | Node.js · Discord.js |
+| **[AI Discord ChatBot](https://github.com/Niraj-Dilshan/Ai-Discord-ChatBot)** | AI-powered Discord chatbot with slash commands | Node.js · Discord.js |
+
+---
+
+## Focus Areas
+
+```
+🏗️  Full-Stack Dev    →  React, Next.js, NestJS, Go, TypeScript
+🔐  Security          →  CTF, Red Team, Bug Bounty, TryHackMe
+🤖  Bots & Automation →  Discord, Telegram, workflow automation
+📱  Mobile            →  Flutter, React Native
+☁️   Cloud & DevOps   →  AWS, GCP, Docker, CI/CD pipelines
+```
+
+---
+
+## 💻 Tech Stack
 
 #### Languages
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
@@ -63,32 +78,49 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
+## GitHub Stats
 
 <p align="center">
-<a href="https://github.com/Niraj-Dilshan"><img src="https://nirzak-streak-stats.vercel.app/?user=Niraj-Dilshan&theme=midnight-purple&hide_border=false" /></a>
+  <a href="https://github.com/Niraj-Dilshan">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Niraj-Dilshan&theme=midnight-purple&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Niraj-Dilshan"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Niraj-Dilsha"/></a>
-<a href="https://github.com/Niraj-Dilshan"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="Niraj-Dilsha"/></a>
-</p>
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/INFINITY.png" alt="TryHackMe">
+  <a href="https://github.com/Niraj-Dilshan">
+    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/Niraj-Dilshan">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
 </p>
 
 ---
 
- [![@1nf1n17y's Holopin board](https://holopin.me/1nf1n17y)](https://holopin.io/@1nf1n17y)
- 
- ---
- 
-<h3 align="center">Visitor Count</h3>
-<p align="center"> 
-<a href="https://github.com/Niraj-Dilshan"><img src="https://visitcount.itsvg.in/api?id=Niraj-Dilshan&icon=0&color=0" style="height:auto; width:300px;"/></a><br/>
-<a href="https://github.com/Niraj-Dilshan"><img src="https://github.com/Niraj-Dilshan/Niraj-Dilshan/blob/main/wallpaper2.png" style="height:auto; width:auto;"/></a>
-</p>
+## Security
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/nirajdilshan"><img style="height:auto; width:200px;" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nirajdilshan&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a><br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/INFINITY.png" alt="TryHackMe"/>
 </p>
+
+I actively participate in CTF competitions, bug bounty programs, and security research.
+
+---
+
+[![@1nf1n17y's Holopin board](https://holopin.me/1nf1n17y)](https://holopin.io/@1nf1n17y)
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Niraj-Dilshan&icon=6&color=9&label=Profile%20Views" />
+</div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/nirajdilshan">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nirajdilshan&button_colour=7B2FBE&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" height="40"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer" width="100%"/>
+</div>
