@@ -133,11 +133,5 @@ I actively participate in CTF competitions, bug bounty programs, and security re
 </div>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/nirajdilshan">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nirajdilshan&button_colour=7B2FBE&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" height="40"/>
-  </a>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer" width="100%"/>
 </div>
