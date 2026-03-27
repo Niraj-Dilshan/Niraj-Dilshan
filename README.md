@@ -3,16 +3,25 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/niraj-dilshan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/niraj-dilshan" title="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="42" height="42" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Niraj_Dilshan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Niraj-Dilshan" title="GitHub">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="42" height="42" alt="GitHub"/>
   </a>
-  <a href="https://nirajdilshan.me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  &nbsp;&nbsp;
+  <a href="https://nirajdilshan.me" title="Portfolio">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="42" height="42" alt="Portfolio"/>
   </a>
-  <img src="https://img.shields.io/github/followers/Niraj-Dilshan?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers"/>
+  &nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/nirajdilshan" title="Buy Me a Coffee">
+    <img src="https://img.icons8.com/fluency/48/coffee-to-go.png" width="42" height="42" alt="Buy Me a Coffee"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Niraj-Dilshan?label=GitHub%20Followers&logo=github&style=flat-square&color=7B2FBE&labelColor=1a1a2e" alt="GitHub Followers"/>
 </div>
 
 ---
