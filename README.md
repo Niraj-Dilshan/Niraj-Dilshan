@@ -21,7 +21,7 @@
 
 Software engineer and cybersecurity enthusiast who builds full-stack applications and gets things done.
 
-My main tools are **Next.js** and **Go**, with strong experience in **GraphQL** and the full JS/TS ecosystem — from React frontends to NestJS and Node.js backends. I manage databases with **MySQL**, **Prisma**, and **TypeORM**, and have integrated services like **Supabase** in production.
+My main tools are **Next.js** and **Go**, with strong experience in **GraphQL** and the full JS/TS ecosystem - from React frontends to NestJS and Node.js backends. I manage databases with **MySQL**, **Prisma**, and **TypeORM**, and have integrated services like **Supabase** in production.
 
 I work well in teams and have led projects end-to-end, including setting up **CI/CD pipelines** with GitHub Actions. I thrive in fast-paced environments and pick up new tech quickly.
 
