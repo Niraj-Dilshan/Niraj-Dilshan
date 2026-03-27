@@ -19,7 +19,13 @@
 
 ## About Me
 
-I'm a full-stack developer and security enthusiast building production SaaS products and open-source tools. I work on [**mythril.io**](https://www.mythril.io/) — an AI-powered creative platform — and contribute to open-source projects at [**INFINITE**](https://github.com/infinit3HQ), focused on making tech more accessible and useful for everyone.
+Software engineer and cybersecurity enthusiast who builds full-stack applications and gets things done.
+
+My main tools are **Next.js** and **Go**, with strong experience in **GraphQL** and the full JS/TS ecosystem — from React frontends to NestJS and Node.js backends. I manage databases with **MySQL**, **Prisma**, and **TypeORM**, and have integrated services like **Supabase** in production.
+
+I work well in teams and have led projects end-to-end, including setting up **CI/CD pipelines** with GitHub Actions. I thrive in fast-paced environments and pick up new tech quickly.
+
+Currently building [**mythril.io**](https://www.mythril.io/) and contributing open source at [**INFINITE**](https://github.com/infinit3HQ). Open to new challenges in **cybersecurity**, **AI**, **cloud**, and **DevOps**.
 
 ---
 
