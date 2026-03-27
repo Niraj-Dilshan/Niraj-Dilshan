@@ -19,17 +19,28 @@
 
 ## About Me
 
-I'm a full-stack developer and security enthusiast building production SaaS products and open-source tools. Currently working at **INFINITE** on [**mythril.io**](https://mythril.io) — an AI-powered creative platform.
-
-I enjoy working across the full stack: from React frontends and NestJS APIs to distributed systems, automation bots, and security research.
+I'm a full-stack developer and security enthusiast building production SaaS products and open-source tools. I work on [**mythril.io**](https://www.mythril.io/) — an AI-powered creative platform — and contribute to open-source projects at [**INFINITE**](https://github.com/infinit3HQ), focused on making tech more accessible and useful for everyone.
 
 ---
 
 ## What I'm Building
 
+### 🚀 Product
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[mythril.io](https://mythril.io)** | AI-powered creative platform | React · NestJS · Bun/Hono · Supabase |
+| **[mythril.io](https://www.mythril.io/)** | AI-powered creative platform | React · NestJS · Bun/Hono · Supabase |
+
+### 🌍 Open Source @ [INFINITE](https://github.com/infinit3HQ)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[KotobaMichi](https://github.com/infinit3HQ/KotobaMichi-Frontend)** | Open-source Japanese language learning platform | TypeScript |
+| **[aniledger](https://github.com/infinit3HQ/aniledger)** | Native macOS anime tracker with AniList sync | Swift · SwiftUI |
+| **[DevCents](https://github.com/infinit3HQ/DevCents)** | Self-hosted, privacy-first money management | TypeScript |
+| **[ollama-guard](https://github.com/infinit3HQ/ollama-guard)** | Lightweight auth proxy for Ollama servers | Python · FastAPI |
+
+### 🤖 Bots & Tools
+| Project | Description | Stack |
+|---------|-------------|-------|
 | **[Albion Guild Bot](https://github.com/Niraj-Dilshan/Albion-Guild-Management-Bot)** | Discord bot for Albion Online guild management & raids | Node.js · Discord.js |
 | **[AI Discord ChatBot](https://github.com/Niraj-Dilshan/Ai-Discord-ChatBot)** | AI-powered Discord chatbot with slash commands | Node.js · Discord.js |
 
@@ -41,7 +52,7 @@ I enjoy working across the full stack: from React frontends and NestJS APIs to d
 🏗️  Full-Stack Dev    →  React, Next.js, NestJS, Go, TypeScript
 🔐  Security          →  CTF, Red Team, Bug Bounty, TryHackMe
 🤖  Bots & Automation →  Discord, Telegram, workflow automation
-📱  Mobile            →  Flutter, React Native
+📱  Mobile            →  Flutter, Swift, React Native
 ☁️   Cloud & DevOps   →  AWS, GCP, Docker, CI/CD pipelines
 ```
 
