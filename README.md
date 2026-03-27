@@ -105,10 +105,10 @@ Currently building [**mythril.io**](https://www.mythril.io/) and contributing op
 
 <p align="center">
   <a href="https://github.com/Niraj-Dilshan">
-    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dilshan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+    <img width="36%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Niraj-Dilshan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
   </a>
   <a href="https://github.com/Niraj-Dilshan">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Niraj-Dilshan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </p>
 
