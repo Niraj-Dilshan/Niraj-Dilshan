@@ -9,7 +9,7 @@
   <a href="https://github.com/Niraj-Dilshan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://nirajdilshan.me">
+  <a href="https://nirajx.com">
     <img src="https://img.shields.io/badge/Portfolio-7B2FBE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://x.com/Niraj_Dilshan">
